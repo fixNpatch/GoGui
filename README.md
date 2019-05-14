@@ -1,2 +1,3 @@
-# go_simple_gui-mvc-
-Simple GUI with GO + webview
+# GoGui
+It's a simple example of how to create GUI with GO.
+Technology used - Webview
